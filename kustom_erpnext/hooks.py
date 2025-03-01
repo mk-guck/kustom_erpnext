@@ -243,10 +243,10 @@ app_license = "gpl-3.0"
 # }
 fixtures = [
     {
-        "dt":"Custom Field","filter":["is_system_generated","=",0]
+        "dt":"Custom Field","filters":[["module","=","Kustom Erpnext"]]
     },
     {
-        "dt":"Property Setter","filter":["is_system_generated","=",0]
+        "dt":"Property Setter","filters":[["module","=","Kustom Erpnext"]]
     },
     {
         "dt":"Letter Head"
