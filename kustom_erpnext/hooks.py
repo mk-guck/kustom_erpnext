@@ -241,4 +241,14 @@ app_license = "gpl-3.0"
 # default_log_clearing_doctypes = {
 # 	"Logging DocType Name": 30  # days to retain logs
 # }
-
+fixtures = [
+    {
+        "dt":"Custom Field","filter":["is_system_generated","=",0]
+    },
+    {
+        "dt":"Property Setter","filter":["is_system_generated","=",0]
+    },
+    {
+        "dt":"Letter Head"
+    }
+]
