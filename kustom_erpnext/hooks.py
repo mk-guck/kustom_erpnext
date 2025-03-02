@@ -250,5 +250,8 @@ fixtures = [
     },
     {
         "dt":"Letter Head"
+    },
+    {
+        "dt":"Account", "filters":[["account_number","IN",["4400","4402",]]]
     }
 ]
