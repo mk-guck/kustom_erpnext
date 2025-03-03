@@ -256,6 +256,7 @@ fixtures = [
     }
 ]
 #
+#
 #    {
 #        "dt":"Client Script","filters":[["module","=","Kustom Erpnext"]]
 #    },
