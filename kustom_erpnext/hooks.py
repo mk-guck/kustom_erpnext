@@ -255,3 +255,13 @@ fixtures = [
         "dt":"Account", "filters":[["account_number","IN",["4400","4402",]]]
     }
 ]
+#
+#    {
+#        "dt":"Client Script","filters":[["module","=","Kustom Erpnext"]]
+#    },
+#    {
+#        "dt":"Server Script","filters":[["module","=","Kustom Erpnext"]]
+#    },
+#    {
+#        "dt":"Print Format","filters":[["name","=","Format Name"]]
+#    },
