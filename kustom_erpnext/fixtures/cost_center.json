@@ -27,6 +27,19 @@
  },
  {
   "company": "M.Kummetat GmbH & Co KG",
+  "cost_center_name": "TV X (WAK-MK 405)",
+  "cost_center_number": "K104786",
+  "disabled": 0,
+  "docstatus": 0,
+  "doctype": "Cost Center",
+  "is_group": 0,
+  "modified": "2025-03-08 18:57:02.229498",
+  "name": "K104786 - TV X (WAK-MK 405) - MK",
+  "old_parent": "Fahrzeuge - Fahrzeuge - MK",
+  "parent_cost_center": "Fahrzeuge - Fahrzeuge - MK"
+ },
+ {
+  "company": "M.Kummetat GmbH & Co KG",
   "cost_center_name": "WAK-MK 445",
   "cost_center_number": "K100083",
   "disabled": 0,
