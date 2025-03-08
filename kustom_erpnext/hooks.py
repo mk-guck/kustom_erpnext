@@ -253,6 +253,9 @@ fixtures = [
     },
     {
         "dt":"Account", "filters":[["account_number","IN",["4402"]]]
+    },
+    {
+        "dt":"Cost Center", "filters":[["cost_center_number","IN",["K104724","K104724","K100083","Fahrzeuge"]]]
     }
 ]
 #
